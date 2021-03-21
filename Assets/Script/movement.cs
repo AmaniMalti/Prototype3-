@@ -24,6 +24,7 @@ public class movement : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
+            rb.AddRelativeForce(Vector3.up);
         }
     }
     void ProcessRotation()
