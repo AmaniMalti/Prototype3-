@@ -21,6 +21,8 @@ public class collisionHandler : MonoBehaviour
 
     void ReloadLevel()
     {
-        SceneManager.LoadScene(0);
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex);
     }
 }
+// credit: https://www.udemy.com/course/unitycourse2/learn/lecture/24879736?start=0#overview

@@ -60,3 +60,4 @@ public class movement : MonoBehaviour
         rb.freezeRotation = false; // unfreeze rotation
     }
 }
+// credit : https://www.udemy.com/course/unitycourse2/learn/lecture/24879736?start=0#overview

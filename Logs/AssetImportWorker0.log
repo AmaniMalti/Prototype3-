@@ -774,3 +774,50 @@ System memory in use after: 140.7 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1631.
 Total: 2.282443 ms (FindLiveObjects: 0.229617 ms CreateObjectMapping: 0.049176 ms MarkObjects: 1.949442 ms  DeleteObjects: 0.052455 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.846 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.323915 ms (FindLiveObjects: 0.322216 ms CreateObjectMapping: 0.047098 ms MarkObjects: 1.873520 ms  DeleteObjects: 0.077589 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 810.474090 seconds.
+  path: Assets/Script/collisionHandler.cs
+  artifactKey: Guid(b1a638541d3b641ed895c4d27f0b6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/collisionHandler.cs using Guid(b1a638541d3b641ed895c4d27f0b6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a42a9344bfb2b70ab968db4873e64e') in 0.013827 seconds
+  Import took 0.016778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043463 seconds.
+  path: Assets/Script/collisionHandler.cs
+  artifactKey: Guid(b1a638541d3b641ed895c4d27f0b6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/collisionHandler.cs using Guid(b1a638541d3b641ed895c4d27f0b6052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a42a9344bfb2b70ab968db4873e64e') in 0.009601 seconds
+  Import took 0.024825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.604990 seconds.
+  path: Assets/Prefabs/Character.prefab
+  artifactKey: Guid(8962ef3727a72402da4ab1887f5bbbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Character.prefab using Guid(8962ef3727a72402da4ab1887f5bbbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7674d0fd30c1cf5473d0f2ded42f144a') in 0.340554 seconds
+  Import took 0.346131 seconds .
+
