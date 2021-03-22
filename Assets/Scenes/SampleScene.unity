@@ -420,18 +420,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 340227226, guid: 8962ef3727a72402da4ab1887f5bbbfd, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 340227226, guid: 8962ef3727a72402da4ab1887f5bbbfd, type: 3}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 340227226, guid: 8962ef3727a72402da4ab1887f5bbbfd, type: 3}
-      propertyPath: m_Constraints
-      value: 56
-      objectReference: {fileID: 0}
     - target: {fileID: 1206126557038364632, guid: 8962ef3727a72402da4ab1887f5bbbfd, type: 3}
       propertyPath: m_Name
       value: Character

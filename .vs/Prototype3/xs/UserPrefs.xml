@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{CF692052-FDCF-63E6-42F9-BED68345FE36}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/movement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/collisionHandler.cs">
     <Files>
-      <File FileName="Assets/Script/movement.cs" Line="12" Column="40" />
+      <File FileName="Assets/Script/movement.cs" Line="38" Column="36" />
+      <File FileName="Assets/Script/collisionHandler.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
